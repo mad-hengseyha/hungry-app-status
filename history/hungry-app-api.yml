@@ -1,7 +1,7 @@
 url: $API_URL?consumer_key=$API_CONSUMER_KEY&consumer_secret=$API_SECRET_KEY
 status: up
 code: 200
-responseTime: 3468
-lastUpdated: 2022-08-09T03:27:25.825Z
+responseTime: 3041
+lastUpdated: 2022-08-09T08:27:38.915Z
 startTime: Tue Aug 09 2022 03:21:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
