@@ -31,7 +31,7 @@ status-website:
   logoUrl: $LOGO_URL
   name: HUNGRY APP Status
   introTitle: "**HungryApp.** Delivering happiness."
-  introMessage: Track all HungryApp performances in one place. View the status of the backend and API here!.
+  introMessage: Track all HungryApp performances in one place. View the status of the backend and API here!
   navbar:
     - title: Status
       href: /
