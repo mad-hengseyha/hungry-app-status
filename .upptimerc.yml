@@ -7,7 +7,7 @@ sites:
     url: $BASE_URL
     icon: $LOGO_URL
   - name: HungryApp API
-    url: $HUNGRY_APP_SECRET_URL?consumer_key=$API_CONSUMER_KEY&consumer_secret=$API_SECRET_KEY
+    url: $API_URL?consumer_key=$API_CONSUMER_KEY&consumer_secret=$API_SECRET_KEY
     icon: $LOGO_URL
 #   - name: HungryApp Mobile Application
 #     url: $HUNGRY_APP_SECRET_URL?consumer_key=$API_CONSUMER_KEY&consumer_secret=$API_SECRET_KEY
