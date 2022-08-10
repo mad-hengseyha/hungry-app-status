@@ -5,13 +5,13 @@ repo: hungry-app-status # The name of this repository
 sites:
   - name: HungryApp Backend
     url: $BASE_URL
-    icon: $LOGO/hungryapp-logo.png
+    icon: https://assets.website-files.com/615a7301656c0a8be70fc9b1/620dcb90a7f4744361044a28_hungryapp-secondary-logo-no-border-01.svg
   - name: HungryApp API
     url: $API_URL?consumer_key=$API_CONSUMER_KEY&consumer_secret=$API_SECRET_KEY
-    icon: $LOGO/hungryapp-logo.png
+    icon: https://assets.website-files.com/615a7301656c0a8be70fc9b1/620dcb90a7f4744361044a28_hungryapp-secondary-logo-no-border-01.svg
 #   - name: HungryApp Mobile Application
 #     url: $HUNGRY_APP_SECRET_URL?consumer_key=$API_CONSUMER_KEY&consumer_secret=$API_SECRET_KEY
-#     icon: $LOGO
+#     icon: https://assets.website-files.com/615a7301656c0a8be70fc9b1/620dcb90a7f4744361044a28_hungryapp-secondary-logo-no-border-01.svg
 
 # Schedul mantenaince
 # start: 2021-02-24T13:00:00.220Z
@@ -28,7 +28,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
 #   cname: status.hungryapp.asia
   baseUrl: /hungry-app-status
-  logoUrl: $LOGO/hungryapp-logo.png
+  logoUrl: https://assets.website-files.com/615a7301656c0a8be70fc9b1/620dcb90a7f4744361044a28_hungryapp-secondary-logo-no-border-01.svg
   name: HUNGRY APP Status
   introTitle: "**HungryApp.** Delivering happiness."
   introMessage: Track all HungryApp performances in one place. View the status of the backend and API here!
