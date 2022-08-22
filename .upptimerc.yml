@@ -26,8 +26,8 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-#   cname: status.hungryapp.asia
-  baseUrl: /hungry-app-status
+  cname: status.hungryapp.asia
+#   baseUrl: /hungry-app-status
   logoUrl: https://assets.website-files.com/615a7301656c0a8be70fc9b1/620dcb90a7f4744361044a28_hungryapp-secondary-logo-no-border-01.svg
   name: HUNGRY APP Status
   introTitle: "**HungryApp.** Delivering happiness."
