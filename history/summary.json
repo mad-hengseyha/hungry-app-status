@@ -4,10 +4,10 @@
     "url": "$BASE_URL",
     "icon": "https://assets.website-files.com/615a7301656c0a8be70fc9b1/620dcb90a7f4744361044a28_hungryapp-secondary-logo-no-border-01.svg",
     "slug": "hungry-app-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5018,
@@ -15,14 +15,16 @@
     "timeWeek": 6587,
     "timeMonth": 5018,
     "timeYear": 5018,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-31": 1
+    }
   },
   {
     "name": "HungryApp API",
     "url": "$API_URL?consumer_key=$API_CONSUMER_KEY&consumer_secret=$API_SECRET_KEY",
     "icon": "https://assets.website-files.com/615a7301656c0a8be70fc9b1/620dcb90a7f4744361044a28_hungryapp-secondary-logo-no-border-01.svg",
     "slug": "hungry-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 3223,
     "timeMonth": 3055,
     "timeYear": 3055,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-31": 0
+    }
   }
 ]
