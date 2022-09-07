@@ -6,15 +6,15 @@
     "slug": "hungry-app-backend",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.30%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 5297,
-    "timeDay": 7156,
-    "timeWeek": 6544,
-    "timeMonth": 5297,
-    "timeYear": 5297,
+    "time": 5318,
+    "timeDay": 6240,
+    "timeWeek": 6518,
+    "timeMonth": 5318,
+    "timeYear": 5318,
     "dailyMinutesDown": {
       "2022-09-05": 24
     }
@@ -26,15 +26,15 @@
     "slug": "hungry-app-api",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 3091,
-    "timeDay": 3511,
+    "time": 3108,
+    "timeDay": 3872,
     "timeWeek": 3315,
-    "timeMonth": 3091,
-    "timeYear": 3091,
+    "timeMonth": 3108,
+    "timeYear": 3108,
     "dailyMinutesDown": {
       "2022-09-05": 24
     }
