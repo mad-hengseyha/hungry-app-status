@@ -1,7 +1,7 @@
 url: $API_URL?consumer_key=$API_CONSUMER_KEY&consumer_secret=$API_SECRET_KEY
 status: down
 code: 401
-responseTime: 2067
-lastUpdated: 2023-12-07T23:17:46.132Z
+responseTime: 2163
+lastUpdated: 2023-12-08T23:17:24.256Z
 startTime: 2022-08-09T03:21:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
