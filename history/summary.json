@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.60%",
-    "time": 8878,
-    "timeDay": 6892,
-    "timeWeek": 8238,
-    "timeMonth": 7644,
-    "timeYear": 8841,
+    "time": 8880,
+    "timeDay": 7327,
+    "timeWeek": 7041,
+    "timeMonth": 7634,
+    "timeYear": 8842,
     "dailyMinutesDown": {
       "2023-11-24": 16,
       "2023-11-11": 16,
@@ -36,8 +36,7 @@
       "2023-01-06": 53,
       "2022-12-29": 86,
       "2022-12-22": 16,
-      "2022-12-16": 215,
-      "2022-12-15": 83
+      "2022-12-16": 215
     }
   },
   {
@@ -46,18 +45,19 @@
     "icon": "https://assets.website-files.com/615a7301656c0a8be70fc9b1/620dcb90a7f4744361044a28_hungryapp-secondary-logo-no-border-01.svg",
     "slug": "hungry-app-api",
     "status": "down",
-    "uptime": "97.21%",
+    "uptime": "97.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.82%",
-    "uptimeYear": "96.38%",
-    "time": 4658,
-    "timeDay": 3101,
-    "timeWeek": 2392,
-    "timeMonth": 3675,
-    "timeYear": 4577,
+    "uptimeMonth": "57.53%",
+    "uptimeYear": "96.11%",
+    "time": 4654,
+    "timeDay": 2109,
+    "timeWeek": 2398,
+    "timeMonth": 3596,
+    "timeYear": 4576,
     "dailyMinutesDown": {
-      "2023-12-14": 42,
+      "2023-12-15": 43,
+      "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -86,8 +86,7 @@
       "2023-01-11": 269,
       "2023-01-06": 73,
       "2022-12-29": 64,
-      "2022-12-16": 198,
-      "2022-12-15": 66
+      "2022-12-16": 198
     }
   }
 ]
